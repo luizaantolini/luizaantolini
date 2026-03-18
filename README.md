@@ -25,6 +25,6 @@ Sou estudante do **2º ano do Ensino Médio no SESI** e curso **Desenvolvimento 
 ### 📫 Vamos nos conectar?
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luiza-antolini-187b233b0)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](luizaantolini@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:luizaantolini@gmail.com)
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=150&section=footer"/>
