@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=483D8B&height=180&section=header&text=Luiza+Antolini+dos+Reis&fontSize=25&fontColor=ffffff&animation=twinkling&fontAlignY=35"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=180&section=header&text=Luiza+Antolini+dos+Reis&fontSize=25&fontColor=ffffff&animation=twinkling&fontAlignY=35"/>
 
 Sou estudante do **2º ano do Ensino Médio no SESI** e curso **Desenvolvimento de Sistemas no SENAI**. Meu foco é transformar a base teórica e técnica em soluções reais, unindo a lógica de programação com uma visão prática de mercado e fluência global.
 
@@ -27,4 +27,4 @@ Sou estudante do **2º ano do Ensino Médio no SESI** e curso **Desenvolvimento 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/luiza-antolini-187b233b0)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](luizaantolini@gmail.com)
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=483D8B&height=150&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=150&section=footer"/>
